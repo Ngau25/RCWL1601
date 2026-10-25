@@ -1,3 +1,4 @@
 [FSDT] : forward_smooth_defttemp
 [FRDT] : forward_rough_defttemp
 [BSDT] : backward_smooth_defttemp
+[FSAT] : Forward – Smooth – Air-con Temp
